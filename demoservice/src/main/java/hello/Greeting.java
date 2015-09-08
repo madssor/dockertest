@@ -1,8 +1,6 @@
 package hello;
 
-/**
- * Created by toril on 08.09.2015.
- */
+
 public class Greeting {
 
     private final long id;
